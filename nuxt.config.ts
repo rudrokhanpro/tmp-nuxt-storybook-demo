@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-  modules: ["@nuxt/ui", "@nuxt/eslint", "@nuxtjs/storybook"],
+  modules: ["@nuxt/ui", "@nuxtjs/storybook"],
 
   css: ["./css/main.css"],
 
